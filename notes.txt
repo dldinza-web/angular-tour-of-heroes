@@ -1,0 +1,10 @@
+[Notes]
+- Bind variable of class in the view is named "interpolation"
+- ngModel propagate the change wherever the model is "two-way data binding"
+
+
+[Questions]
+
+- Move model to another folder
+- Move views to another folder
+- Make data persisted
