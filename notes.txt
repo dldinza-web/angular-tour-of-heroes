@@ -8,3 +8,5 @@
 - Move model to another folder
 - Move views to another folder
 - Make data persisted
+- load partials
+- Listening among components
