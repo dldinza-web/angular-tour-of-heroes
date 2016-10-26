@@ -10,3 +10,4 @@
 - Make data persisted
 - load partials
 - Listening among components
+- clean unnecessary files .map, .js
