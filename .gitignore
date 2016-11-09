@@ -3,3 +3,4 @@ typings/*
 app/*
 !app/*.ts
 *.log
+*DS_Store

@@ -5,9 +5,11 @@
 
 [Questions]
 
-- Move model to another folder
+* Move model to another folder
 - Move views to another folder
-- Make data persisted
-- load partials
+* Make data persisted
+* load partials
 - Listening among components
 - clean unnecessary files .map, .js
+* routing
+* Styles in anothe folder
