@@ -2,3 +2,5 @@ node_modules/*
 typings/*
 app/*
 !app/*.ts
+*.log
+*DS_Store
